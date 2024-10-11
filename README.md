@@ -1,7 +1,7 @@
 # Microservice dengan JWT
 java 17, spring-boot 3..
 
-![Logo](images/flow.png)
+![Logo](images/flow-order-app.png)
 
 dependencies customer-service:
 Spring Web,
